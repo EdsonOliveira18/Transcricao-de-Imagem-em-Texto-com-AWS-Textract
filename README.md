@@ -1,0 +1,1 @@
+# Transcricao-de-Imagem-em-Texto-com-AWS-Textract
