@@ -57,10 +57,10 @@ Após a extração, você pode gerar um relatório com os seguintes detalhes:
 
 ## **Imagens Explicativas**
 ### 1. Exemplo da aplicação da solução AWS Textract
-![Interface do Console AWS Textract](images\example.png)
+![Interface do Console AWS Textract](https://github.com/EdsonOliveira18/Transcricao-de-Imagem-em-Texto-com-AWS-Textract/blob/main/images/example.png)
 
 ### 2. Exemplo de Fluxo Automatizado utilizando as soluções da AWS
-![Exemplo de Fluxo Automatizado utilizando as soluções da AWS](images\example.png)
+![Exemplo de Fluxo Automatizado utilizando as soluções da AWS](https://github.com/EdsonOliveira18/Transcricao-de-Imagem-em-Texto-com-AWS-Textract/blob/main/images/flow.png)
 
 ## **Insights e Possibilidades**
 Durante o desenvolvimento deste projeto, percebi que o AWS Textract oferece uma grande variedade de aplicações no processamento de documentos, especialmente para empresas que lidam com um grande volume de informações em papel.
