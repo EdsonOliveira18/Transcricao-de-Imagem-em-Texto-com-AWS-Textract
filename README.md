@@ -1,6 +1,6 @@
 # **Transcrevendo uma Imagem em Texto com AWS Textract**
 
-![AWS Textract](images\logo.png)
+![AWS Textract](https://github.com/EdsonOliveira18/Transcricao-de-Imagem-em-Texto-com-AWS-Textract/blob/main/images/logo.png)
 
 ## **O que é AWS Textract?**
 AWS Textract é um serviço de reconhecimento de texto da Amazon Web Services que permite extrair automaticamente texto impresso e manuscrito de documentos digitalizados, imagens e PDFs. Além de texto simples, ele também identifica estruturas complexas, como tabelas e formulários.
