@@ -1,6 +1,6 @@
 # **Transcrevendo uma Imagem em Texto com AWS Textract**
 
-![Interface do Console AWS Textract](https://via.placeholder.com/800x400.png?text=Interface+do+Console+AWS+Textract)
+![AWS Textract](images\logo.png)
 
 ## **O que é AWS Textract?**
 AWS Textract é um serviço de reconhecimento de texto da Amazon Web Services que permite extrair automaticamente texto impresso e manuscrito de documentos digitalizados, imagens e PDFs. Além de texto simples, ele também identifica estruturas complexas, como tabelas e formulários.
@@ -56,14 +56,11 @@ Após a extração, você pode gerar um relatório com os seguintes detalhes:
 - **Análise de tabelas e formulários**, se aplicável.
 
 ## **Imagens Explicativas**
-### 1. Interface do Console AWS Textract
-![Interface do Console AWS Textract](https://via.placeholder.com/800x400.png?text=Interface+do+Console+AWS+Textract)
+### 1. Exemplo da aplicação da solução AWS Textract
+![Interface do Console AWS Textract](images\example.png)
 
-### 2. Código Python executando o AWS Textract
-![Execução de Código Python com Textract](https://via.placeholder.com/800x400.png?text=Execu%C3%A7%C3%A3o+de+C%C3%B3digo+Python+com+Textract)
-
-### 3. Comparação entre Imagem Original e Texto Extraído
-![Comparação Imagem e Texto](https://via.placeholder.com/800x400.png?text=Compara%C3%A7%C3%A3o+Imagem+e+Texto)
+### 2. Exemplo de Fluxo Automatizado utilizando as soluções da AWS
+![Exemplo de Fluxo Automatizado utilizando as soluções da AWS](images\example.png)
 
 ## **Insights e Possibilidades**
 Durante o desenvolvimento deste projeto, percebi que o AWS Textract oferece uma grande variedade de aplicações no processamento de documentos, especialmente para empresas que lidam com um grande volume de informações em papel.
